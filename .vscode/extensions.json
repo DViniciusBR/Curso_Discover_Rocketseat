@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "rodrigorgtic.rcomponent",
+        "msjsdiag.vscode-react-native",
+        "nativebase.nativebase-v3-vscode-extension"
+    ]
+}
